@@ -7,7 +7,7 @@ from PIL import Image, ImageDraw, ImageFont
 # ─────────────────────────────────────────────
 #  CONFIGURATION FIXE (MODIFIEZ ICI)
 # ─────────────────────────────────────────────
-ROBOFLOW_API_KEY = "VOTRE_CLE_API_ICI"  # Remplacez par votre vraie clé
+ROBOFLOW_API_KEY = "LvUI0cGFZQd7U1MsgKJn"  # Remplacez par votre vraie clé
 PROJECT_ID = "my-second-project_jdaidi"
 MODEL_VERSION = "1"
 
